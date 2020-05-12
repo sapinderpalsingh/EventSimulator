@@ -1,0 +1,1 @@
+## Simulate sensor data and send it to event hub
